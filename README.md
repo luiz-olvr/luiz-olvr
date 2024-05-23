@@ -1,4 +1,4 @@
-# Olá, muito bem vindo ao me perfil do Github
+# Olá, muito bem vindo ao meu perfil do Github
 
 - 🔭 Hoje eu busco vaga como Back-end
 - 🌱 Estou estudando PHP, Python e C
