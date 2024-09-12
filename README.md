@@ -1,7 +1,7 @@
 # Olá, muito bem vindo ao meu perfil do Github
 
-- 🔭 Hoje eu busco vaga como Back-end
-- 🌱 Estou estudando PHP, Python e C
+- 🔭 Hoje eu busco vaga como Back-end, mas consigo me adaptar para outra 
+- 🌱 Estou estudando PHP, Python, C e um pouco de HTML e CSS
 - 📫 Contate-se pelo email: luizrolvr@gmail.com
 
 
