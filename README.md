@@ -5,6 +5,10 @@
 - 📫 Contate-se pelo email: luizrolvr@gmail.com
 
 
+Sou estudante de 18 anos, estou atualmente no Ensino Médio técnico em mecatrônica no IFSul Câmpus Novo Hamburgo. <br/>
+Gosto muito da área de tecnologia e programação, e procuro uma oportunidade de estagio para aplicar minhas habilidades<br/> e aprender mais  profissionalmente 
+
+
 
 <div> 
   <a href="https://www.instagram.com/Luizz.olliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
