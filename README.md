@@ -21,6 +21,13 @@ Gosto muito da área de tecnologia e programação, e procuro uma oportunidade d
 * [Registro rapido](https://github.com/luiz-olvr/Registro_rapido)
 
 ## 🔥 Habilidades
+
+- Dedicação e busca por inovação nas
+atividades
+- Comunicação ativa e liderança
+- Facilidade com novos aprendizados
+- Prestatividade e facilidade para compartilhar
+conhecimentos
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens</h3>
