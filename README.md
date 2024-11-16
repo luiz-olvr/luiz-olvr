@@ -19,9 +19,8 @@ Gosto muito da área de tecnologia e programação, e procuro uma oportunidade d
 
 ## Principais projetos
 * [Registro rapido](https://github.com/luiz-olvr/Registro_rapido)
-* [Replica do jogo Wordle](https://github.com/luiz-olvr/Wordle)
 
-## 🔥 Abilidades
+## 🔥 Habilidades
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens</h3>
